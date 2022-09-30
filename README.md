@@ -20,6 +20,8 @@
 4. Merge Sort
 5. Quick Sort
 6. Heap Sort
-7. Dynamic Programming 
-
+### Dynamic Programming 
+### Depth-First-Search
+### Breadth-First-Search
+### Dijkestra's Algorithm
 
