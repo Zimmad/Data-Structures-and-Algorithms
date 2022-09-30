@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms (Implemented in Dart)
-##Overview-
+## Overview-
 
-##Data Structures --
+## Data Structures --
 1. Arrays
 2. Stacks
 3. Queue
@@ -12,7 +12,7 @@
 8. Tries
 9. Graphs
 
-##Algoritms --
+## Algoritms --
 ### Sorting Algorithms
 1. Bubble Sort 
 2. Selection Sort 
