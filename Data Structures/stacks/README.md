@@ -1,6 +1,6 @@
 # Stack 
 
-### Stack is a linear data structure that follow the First-In-First-Out (FIFO) principle. Stack data structures resembles the real world stack (like stack of Papers, stack of Plates or stack of tiles).
+### Stack is a linear data structure that follow the Last-In-First-Out (LIFO) principle. Stack data structures resembles the real world stack (like stack of Papers, stack of Plates or stack of tiles).
 
 ## Push 
 ### Push method is use for inserting an element at the top of a stack.
