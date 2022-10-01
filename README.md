@@ -2,7 +2,7 @@
 ## Overview-
 
 ## Data Structures --
-1. Arrays
+1. Dart Basic Data Structures (Lists (Array), Maps , Sets)
 2. Stacks
 3. Queue
 4. Priority Queues
