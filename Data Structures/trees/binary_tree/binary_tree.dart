@@ -1,3 +1,5 @@
+import 'dart:html';
+
 class BinaryTreeNode<E> {
   E value;
   BinaryTreeNode<E>? leftChildNode;
