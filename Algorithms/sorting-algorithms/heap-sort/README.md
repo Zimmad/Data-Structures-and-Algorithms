@@ -5,4 +5,4 @@
 ## In Min-Heap the root node is the smalles.
 
 ### This algorithm repeatedly remove the highest priority value from the heap.
-### Time complexity of heap-sort is O(n log n) and space complexity of O(log n)
+### Time complexity of heap-sort is O(n log n) and space complexity of O(n)

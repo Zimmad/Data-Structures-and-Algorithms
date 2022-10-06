@@ -14,6 +14,7 @@ void bubbleSort<E extends Comparable<dynamic>>(List<E> list) {
         swaped = true;
       }
     }
-    if (!swaped) return;
+    if (!swaped)
+      return; // If now swapping occurs in first pass , it means that the list is sorted and we can return
   }
 }

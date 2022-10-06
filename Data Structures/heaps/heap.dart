@@ -137,7 +137,6 @@ class Heap<E extends Comparable<dynamic>> {
 
   @override
   String toString() {
-    // TODO: implement toString
     return elements.toString();
   }
 }

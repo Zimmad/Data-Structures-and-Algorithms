@@ -35,7 +35,7 @@ class BinaryTreeNode<E> {
   //? This algorithm is from "Károly Lőrentey" which he has specified(implemented) in his book  "Optimizing Collections.
   @override
   String toString() {
-    return _diagram(this);
+    return _diagram(this); // this refers to the current object.
   }
 
   String _diagram(

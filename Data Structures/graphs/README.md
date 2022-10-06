@@ -24,3 +24,4 @@
 ### Adding Edge is O(1) time.
 ### Searching for Edge or Vertex is O(1) (constant) times operations. 
 
+## Note : For Dense grapghs Graphs Through Adjacency matrix are preferred due to its fast searching and for sparse graphs , Implementing graphs through lists are preffered.

@@ -19,7 +19,7 @@ List<E> _mergeLists<E extends Comparable<dynamic>>(
       index2++;
     }
   }
-  // if any of the values are remaning then it means that the first list is added in order and now just add it to the combined list of both.
+  // if any of the values are remaning then it means that one the list is added in order and now just add it to the combined list the remaing elements.
   if (index1 < list1.length) {
     combinedList.addAll(list1.getRange(index1, list1.length));
   }
