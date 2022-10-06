@@ -15,6 +15,12 @@ extension BFS<E> on Graph<E> {
       if (vertex == null) break;
       visited.add(vertex);
       final neighbourEdges = edges(vertix: vertex);
+      for (final edge in neighbourEdges) {
+        if (!enqueued.contains(edge.destination)) {
+          queue.enqueue(edge.destination);
+          enqueued.add(edge.destination);
+        }
+      }
     }
     return visited;
   }
